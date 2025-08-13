@@ -54,7 +54,7 @@ export const metadata: Metadata = {
   other: {
     "google-site-verification": "your-google-verification-code",
   },
-    generator: 'v0.app'
+  generator: 'v0.app'
 }
 
 export default function RootLayout({
@@ -86,7 +86,7 @@ export default function RootLayout({
               logo: "https://zadedugate.com/zad-logo.jpeg",
               image: "https://zadedugate.com/study-egypt-banner.jpeg",
               telephone: "+201080360400",
-              email: "zadedugate@gmail.com",
+              email: "zadedugatez@gmail.com",
               address: {
                 "@type": "PostalAddress",
                 addressCountry: "EG",

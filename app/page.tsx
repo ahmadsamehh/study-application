@@ -639,8 +639,8 @@ export default function HomePage() {
                   <div>
                     <h3 className="font-serif font-semibold text-foreground">راسلنا</h3>
                     <p className="text-muted-foreground">
-                      <a href="mailto:zadedugate@gmail.com" className="hover:text-primary transition-colors">
-                        zadedugate@gmail.com
+                      <a href="mailto:zadedugatez@gmail.com" className="hover:text-primary transition-colors">
+                        zadedugatez@gmail.com
                       </a>
                     </p>
                   </div>
@@ -757,11 +757,11 @@ export default function HomePage() {
                 </li>
                 <li role="listitem">
                   <a
-                    href="mailto:zadedugate@gmail.com"
+                    href="mailto:zadedugatez@gmail.com"
                     className="hover:text-white transition-colors flex items-center gap-2"
                   >
                     <Mail className="h-4 w-4" />
-                    zadedugate@gmail.com
+                    zadedugatez@gmail.com
                   </a>
                 </li>
                 <li role="listitem">
